@@ -1,0 +1,12 @@
+Change Log:
+===========
+
+Version 3.4.0
+Edwiser RemUI now compatible with Moodle version 3.4
+Initial Release of Edwiser RemUI 3.4
+Feature - New Teacher Centered Dashboard with Course and Student Progress
+Feature - Contact your students who are not attending lectures
+Feature - Sorting Functionality on Course Archieve Page
+Feature - List and Grid view for Course Tiles on Course Archieve Page
+Feature - Create New course button on Course Archieve Page
+

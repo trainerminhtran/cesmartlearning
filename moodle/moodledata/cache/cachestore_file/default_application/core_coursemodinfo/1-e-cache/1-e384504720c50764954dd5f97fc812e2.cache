@@ -1,0 +1,105 @@
+O:8:"stdClass":9:{s:7:"modinfo";a:6:{i:1;O:8:"stdClass":11:{s:2:"id";s:1:"1";s:2:"cm";s:1:"1";s:3:"mod";s:5:"forum";s:7:"section";s:1:"0";s:9:"sectionid";s:1:"1";s:6:"module";s:1:"9";s:5:"added";s:10:"1515611044";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:4:"name";s:15:"Tin tức chung";}i:2;O:8:"stdClass":12:{s:2:"id";s:1:"1";s:2:"cm";s:1:"2";s:3:"mod";s:5:"label";s:7:"section";s:1:"1";s:9:"sectionid";s:1:"2";s:6:"module";s:2:"12";s:5:"added";s:10:"1508678182";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:4:"name";s:63:"
+
+Chào mừng bạn đến với&nbsp;CE SMART LEARNING
+...";s:7:"content";s:835:"<div class="no-overflow"><div class="row-fluid frontpage">
+<div class="span8">
+<h1>Chào mừng bạn đến với&nbsp;</h1><h1>CE SMART LEARNING</h1>
+<div class="divider line-01"></div>
+<h4>Nơi hoàn hảo để vươn đến tầm cao mới</h4>
+<p class="plus">chúng tôi giúp bạn thấu hiểu về những giá trị nền tảng trong triết lý kinh doanh mang tính bền vững của samsung. Thông qua các bài học trực tuyến, bạn sẽ được tran bị kiến thức sản phẩm, kiến thức bán hàng và kiến tạo giá trị bản thân</p>
+</div>
+<div class="span4">
+<div class="responsive-video">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fNVz_6Dngkk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
+</div>
+</div>
+</div></div>";}i:3;O:8:"stdClass":12:{s:2:"id";s:1:"2";s:2:"cm";s:1:"3";s:3:"mod";s:5:"label";s:7:"section";s:1:"1";s:9:"sectionid";s:1:"2";s:6:"module";s:2:"12";s:5:"added";s:10:"1508678207";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:4:"name";s:58:"
+    
+        
+        
+            Đừng biến ...";s:7:"content";s:1424:"<div class="no-overflow"><div class="row-fluid">
+    <div class="image-box span4">
+        <img src="https://goo.gl/v5aQof" alt="img1" class="img-responsive">
+        <div class="image-box-content">
+            <p>Đừng biến người bạn thân thiết trong ngôi nhà của bạn thành ổ chứa vi khuẩn trong ngày tết.</p>
+            <p style="text-align:center;">
+                <a class="btn btn-default" href="#">Đọc thêm</a>
+            </p>
+        </div>
+    </div>
+    <div class="image-box span4">
+        <img src="https://goo.gl/ss7VwE" alt="img2" class="img-responsive">
+        <div class="image-box-content">
+            <p>Đừng biến người bạn thân thiết trong ngôi nhà của bạn thành ổ chứa vi khuẩn trong ngày tết.</p>
+            <p style="text-align:center;">
+                <a class="btn btn-default" href="#">Đọc thêm</a>
+            </p>
+        </div>
+    </div>
+    <div class="image-box span4">
+        <img src="https://goo.gl/35QrNm" alt="img3" class="img-responsive">
+        <div class="image-box-content">
+            <p>Đừng biến người bạn thân thiết trong ngôi nhà của bạn thành ổ chứa vi khuẩn trong ngày tết.</p>
+            <p style="text-align:center;">
+                <a class="btn btn-default" href="#">Đọc thêm</a>
+            </p>
+        </div>
+    </div>
+</div></div>";}i:4;O:8:"stdClass":12:{s:2:"id";s:1:"3";s:2:"cm";s:1:"4";s:3:"mod";s:5:"label";s:7:"section";s:1:"1";s:9:"sectionid";s:1:"2";s:6:"module";s:2:"12";s:5:"added";s:10:"1508690938";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:4:"name";s:63:"
+    Tầm nhìn của Học viện thông minh CE
+    
+ ...";s:7:"content";s:1292:"<div class="no-overflow"><div class="spotlight spotlight-v3" style="min-height:190px;">
+    <h2>Tầm nhìn của Học viện thông minh CE</h2>
+    <div class="row-fluid">
+      <div class="span4">
+        <div class="blocknumber_box">
+          <div class="blocknumber_icon"><i class="fa fa-user"></i></div>
+          <div class="blocknumber_content">
+            <h5>Con người</h5>
+            <p>Chúng tôi tin rằng tri thức chính là cội nguồn giá trị của mỗi người.</p>
+          </div>
+        </div>
+      </div>
+      <div class="span4">
+        <div class="blocknumber_box">
+          <div class="blocknumber_icon"><i class="fa fa-graduation-cap"></i></div>
+          <div class="blocknumber_content">
+            <h5>Triết lý Giáo dục</h5>
+            <p>Truyền cảm hứng đế thay đổi một thế hệ.</p>
+          </div>
+        </div>
+      </div>
+      <div class="span4">
+        <div class="blocknumber_box">
+          <div class="blocknumber_icon"><i class="fa fa-book"></i></div>
+          <div class="blocknumber_content">
+            <h5>Triết lý tri thức</h5>
+            <p>Đại đạo là chí giản chí dị.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    </div></div>";}i:5;O:8:"stdClass":12:{s:2:"id";s:1:"4";s:2:"cm";s:1:"5";s:3:"mod";s:5:"label";s:7:"section";s:1:"1";s:9:"sectionid";s:1:"2";s:6:"module";s:2:"12";s:5:"added";s:10:"1508690960";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:4:"name";s:5:"Label";s:7:"content";s:872:"<div class="no-overflow"><!--
+<div class="row-fluid frontpage">
+<div class="span6">
+<img class="img-responsive" alt="lambda responsive" src="http://lambda.redpithemes.com/pluginfile.php/378/mod_label/intro/lambda_responsive.jpg">
+</div>
+<div class="span6">
+<h1>One theme - endless possibilities - for all devices</h1>
+<div class="divider line-01"></div>
+<h4>Theme Lambda allows you to build your own style, you get options for everything you need:</h4>
+<p class="plus"> Lambda is a high quality and very flexible theme with lots of powerful features and theme options. It lets you present your content in whatever way you like. Furthermore: You don't have to care about selecting a 'legacy', a 'mobile' and a 'tablet' version of a theme. Theme Lambda adapts to all screen resolutions. It's responsive and looks great on all devices.</p>
+</div>
+</div>
+--></div>";}i:6;O:8:"stdClass":12:{s:2:"id";s:1:"5";s:2:"cm";s:1:"6";s:3:"mod";s:5:"label";s:7:"section";s:1:"1";s:9:"sectionid";s:1:"2";s:6:"module";s:2:"12";s:5:"added";s:10:"1508690978";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:4:"name";s:5:"Label";s:7:"content";s:482:"<div class="no-overflow"><!--
+<div class="spotlight spotlight-v1 spotlight-full arrow-top">
+	<div class="row-fluid">
+		<div class="span8">
+			<h4>Verify Theme Lambda's flexibility: Click the buttons to the right to get live examples of some style variations.</h4>
+		</div>
+		<div style="margin-top:15px;" class="span4">
+			<p style="text-align:right;"><a style="margin-right: 20px;" href="#" class="btn btn-primary">Sample Button</a></p>
+		</div>
+	</div>
+</div>
+--></div>";}}s:12:"sectioncache";a:2:{i:0;O:8:"stdClass":3:{s:2:"id";s:1:"1";s:4:"name";N;s:12:"availability";N;}i:1;O:8:"stdClass":3:{s:2:"id";s:1:"2";s:4:"name";N;s:12:"availability";N;}}s:9:"shortname";s:17:"CE Smart learning";s:8:"fullname";s:17:"CE SMART LEARNING";s:6:"format";s:4:"site";s:16:"enablecompletion";s:1:"0";s:9:"groupmode";s:1:"0";s:14:"groupmodeforce";s:1:"0";s:8:"cacherev";s:10:"1516424177";}

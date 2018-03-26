@@ -1,0 +1,59 @@
+O:8:"stdClass":9:{s:7:"modinfo";a:15:{i:91;O:8:"stdClass":12:{s:2:"id";s:1:"5";s:2:"cm";s:2:"91";s:3:"mod";s:5:"forum";s:7:"section";s:1:"0";s:9:"sectionid";s:2:"19";s:6:"module";s:1:"9";s:5:"added";s:10:"1516026612";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:18:"deletioninprogress";s:1:"1";s:4:"name";s:13:"Announcements";}i:99;O:8:"stdClass":13:{s:2:"id";s:2:"42";s:2:"cm";s:2:"99";s:3:"mod";s:5:"label";s:7:"section";s:1:"0";s:9:"sectionid";s:2:"19";s:6:"module";s:2:"12";s:5:"added";s:10:"1516333016";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:15:"showdescription";s:1:"1";s:4:"name";s:61:"
+
+
+  Khi khách hàng đến gian hàng trưng bày TV...";s:7:"content";s:343:"<div class="no-overflow"><div class="prom-box prom-box-default">
+<i class="fa fa-info-circle" aria-hidden="true" style="float:left; margin-right:15px; color:#dbdbdb; font-size: 5em;"></i>
+
+  <h3>Khi khách hàng đến gian hàng trưng bày TV</h3>
+  <p class="plus">Đồng nghĩa với việc mình có một cơ hội</p>
+</div></div>";}i:102;O:8:"stdClass":15:{s:2:"id";s:2:"44";s:2:"cm";s:3:"102";s:3:"mod";s:5:"label";s:7:"section";s:1:"0";s:9:"sectionid";s:2:"19";s:6:"module";s:2:"12";s:5:"added";s:10:"1516343062";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:15:"showdescription";s:1:"1";s:18:"deletioninprogress";s:1:"1";s:4:"name";s:53:"
+
+
+
+
+ 
+
+
+
+First slide label
+Praesent com...";s:7:"content";s:1329:"<div class="no-overflow"><div id="myCarousel" class="carousel slide" style="max-width:525px;&quot;">
+<ol class="carousel-indicators">
+<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+<li data-target="#myCarousel" data-slide-to="1"></li>
+<li data-target="#myCarousel" data-slide-to="2"></li>
+</ol> 
+<div class="carousel-inner">
+<div class="active item"><img src="https://static.pexels.com/photos/92632/pexels-photo-92632-medium.jpeg" alt="first">
+<div class="carousel-caption">
+<h3>First slide label</h3>
+<p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
+</div>
+</div>
+<div class="item"><img src="https://static.pexels.com/photos/96455/pexels-photo-96455-medium.jpeg" alt="second">
+<div class="carousel-caption">
+<h3>Second slide label</h3>
+<p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
+</div>
+</div>
+<div class="item"><img src="https://static.pexels.com/photos/96415/pexels-photo-96415-medium.jpeg" alt="third">
+<div class="carousel-caption">
+<h3>Third slide label</h3>
+<p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
+</div>
+</div>
+</div> 
+<a class="carousel-control left" href="#myCarousel" data-slide="prev">‹</a>
+<a class="carousel-control right" href="#myCarousel" data-slide="next">›</a>
+</div></div>";}i:105;O:8:"stdClass":12:{s:2:"id";s:1:"2";s:2:"cm";s:3:"105";s:3:"mod";s:4:"chat";s:7:"section";s:1:"0";s:9:"sectionid";s:2:"19";s:6:"module";s:1:"4";s:5:"added";s:10:"1516382030";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:4:"name";s:11:"Phòng chat";}i:100;O:8:"stdClass":15:{s:2:"id";s:2:"43";s:2:"cm";s:3:"100";s:3:"mod";s:5:"label";s:7:"section";s:1:"1";s:9:"sectionid";s:2:"20";s:6:"module";s:2:"12";s:5:"added";s:10:"1516333156";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:18:"completionexpected";s:10:"1516640400";s:15:"showdescription";s:1:"1";s:4:"name";s:6:"
+  
+";s:7:"content";s:223:"<div class="no-overflow"><div class="responsive-video" style="margin-top:35px;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/fNVz_6Dngkk" frameborder="0" allowfullscreen=""></iframe>
+</div></div>";}i:92;O:8:"stdClass":15:{s:2:"id";s:2:"12";s:2:"cm";s:2:"92";s:3:"mod";s:8:"resource";s:7:"section";s:1:"1";s:9:"sectionid";s:2:"20";s:6:"module";s:2:"17";s:5:"added";s:10:"1516026837";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:18:"completionexpected";s:10:"1518627600";s:4:"icon";s:9:"f/mpeg-24";s:4:"name";s:47:"Video hướng dẫn 1 phút bán hàng TV QLED";s:10:"customdata";s:28:"a:1:{s:10:"printintro";i:1;}";}i:93;O:8:"stdClass":14:{s:2:"id";s:2:"13";s:2:"cm";s:2:"93";s:3:"mod";s:8:"resource";s:7:"section";s:1:"1";s:9:"sectionid";s:2:"20";s:6:"module";s:2:"17";s:5:"added";s:10:"1516026985";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:4:"icon";s:8:"f/pdf-24";s:4:"name";s:10:"Call Guide";s:10:"customdata";s:28:"a:1:{s:10:"printintro";i:1;}";}i:94;O:8:"stdClass":16:{s:2:"id";s:2:"14";s:2:"cm";s:2:"94";s:3:"mod";s:8:"resource";s:7:"section";s:1:"2";s:9:"sectionid";s:2:"21";s:6:"module";s:2:"17";s:5:"added";s:10:"1516027546";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"2";s:14:"completionview";s:1:"1";s:4:"icon";s:15:"f/powerpoint-24";s:4:"name";s:11:"Power Point";s:7:"onclick";s:231:"window.open('https://cesmartlearning.org/mod/resource/view.php?id=94&amp;redirect=1', '', 'width=620,height=450,toolbar=no,location=no,menubar=no,copyhistory=no,status=no,directories=no,scrollbars=yes,resizable=yes'); return false;";s:10:"customdata";s:55:"a:2:{s:10:"popupwidth";i:620;s:11:"popupheight";i:450;}";}i:95;O:8:"stdClass":13:{s:2:"id";s:1:"2";s:2:"cm";s:2:"95";s:3:"mod";s:4:"book";s:7:"section";s:1:"2";s:9:"sectionid";s:2:"21";s:6:"module";s:1:"3";s:5:"added";s:10:"1516028375";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:18:"deletioninprogress";s:1:"1";s:4:"name";s:11:"Power Point";}i:104;O:8:"stdClass":12:{s:2:"id";s:1:"1";s:2:"cm";s:3:"104";s:3:"mod";s:5:"scorm";s:7:"section";s:1:"2";s:9:"sectionid";s:2:"21";s:6:"module";s:2:"18";s:5:"added";s:10:"1516368625";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:4:"name";s:22:"Demo CE Smart Learning";}i:97;O:8:"stdClass":13:{s:2:"id";s:1:"1";s:2:"cm";s:2:"97";s:3:"mod";s:4:"quiz";s:7:"section";s:1:"3";s:9:"sectionid";s:2:"22";s:6:"module";s:2:"16";s:5:"added";s:10:"1516106230";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:18:"deletioninprogress";s:1:"1";s:4:"name";s:4:"Quiz";}i:98;O:8:"stdClass":12:{s:2:"id";s:1:"2";s:2:"cm";s:2:"98";s:3:"mod";s:4:"quiz";s:7:"section";s:1:"3";s:9:"sectionid";s:2:"22";s:6:"module";s:2:"16";s:5:"added";s:10:"1516106562";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:4:"name";s:4:"Quiz";}i:103;O:8:"stdClass":14:{s:2:"id";s:2:"45";s:2:"cm";s:3:"103";s:3:"mod";s:5:"label";s:7:"section";s:1:"3";s:9:"sectionid";s:2:"22";s:6:"module";s:2:"12";s:5:"added";s:10:"1516367872";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:15:"showdescription";s:1:"1";s:4:"name";s:29:"
+ Final tasks and activities";s:7:"content";s:130:"<div class="no-overflow"><p class="headline headline-v1"><i class="fa fa-check-circle"></i>
+ Final tasks and activities</p></div>";}i:101;O:8:"stdClass":12:{s:2:"id";s:1:"3";s:2:"cm";s:3:"101";s:3:"mod";s:4:"quiz";s:7:"section";s:1:"3";s:9:"sectionid";s:2:"22";s:6:"module";s:2:"16";s:5:"added";s:10:"1516334002";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:4:"name";s:10:"Test Final";}i:106;O:8:"stdClass":12:{s:2:"id";s:1:"4";s:2:"cm";s:3:"106";s:3:"mod";s:4:"quiz";s:7:"section";s:1:"3";s:9:"sectionid";s:2:"22";s:6:"module";s:2:"16";s:5:"added";s:10:"1516422968";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:4:"name";s:20:"Bài tập về nhà";}}s:12:"sectioncache";a:4:{i:0;O:8:"stdClass":4:{s:2:"id";s:2:"19";s:4:"name";s:0:"";s:7:"summary";s:425:"<div class="course-pano wrapper" style="margin-bottom:15px;">
+<img src="http://dienmaynguoiviet.vn/media/lib/3711_smart-tivi-samsung-qled-qa88q9-88-inch-org-2.jpg" alt="course-pano" height="175" width="1600">
+  <div class="course-pano title">
+    <h2><span>Hướng dẫn 1 phút bán hàng với QLED</span></h2>
+    <h4><span>Cách để khách hàng chú ý ngay vào QLED theo câu hỏi</span></h4>
+  </div>
+</div>";s:12:"availability";s:28:"{"op":"&","c":[],"showc":[]}";}i:1;O:8:"stdClass":3:{s:2:"id";s:2:"20";s:4:"name";s:9:"Cơ bản";s:12:"availability";N;}i:2;O:8:"stdClass":3:{s:2:"id";s:2:"21";s:4:"name";s:5:"Slide";s:12:"availability";N;}i:3;O:8:"stdClass":4:{s:2:"id";s:2:"22";s:4:"name";s:10:"Kiểm tra";s:7:"summary";s:138:"<div class="alert alert-info"><i class="fa fa-info-circle fa-2x"></i> Bạn cần 10 điểm để vượt qua bài kiểm tra này.</div>";s:12:"availability";s:28:"{"op":"&","c":[],"showc":[]}";}}s:9:"shortname";s:45:"Hướng dẫn 1 phút bán hàng cho TV QLED";s:8:"fullname";s:45:"Hướng dẫn 1 phút bán hàng cho TV QLED";s:6:"format";s:6:"topics";s:16:"enablecompletion";s:1:"1";s:9:"groupmode";s:1:"1";s:14:"groupmodeforce";s:1:"1";s:8:"cacherev";s:10:"1516425352";}
